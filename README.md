@@ -30,7 +30,7 @@ By comparing a player's actual Field Goal Percentage against their Expected Fiel
 
 ---
 
-##  Mathematical Formulation & Feature Engineering
+##  Mathematical Formulation & Feature 
 
 ### 1. Expected Field Goal Percentage Model ($\text{xFG\%}$)
 The baseline shot probability is modeled using a Logistic Regression sigmoid function trained on spatial features:
