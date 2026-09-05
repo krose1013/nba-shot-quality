@@ -1,4 +1,4 @@
-# 🏀 NBA Expected Shot Quality (xFG%) & Spatial Heatmap Analysis
+#  NBA Expected Shot Quality (xFG%) & Spatial Heatmap Analysis
 
 **Author:** Kylah Rose  
 **Live App:** [Streamlit Dashboard](nba-shot-quality-tyexthmhzlb453kh83nosu.streamlit.app)  
